@@ -14,7 +14,7 @@ Please ensure the proper file structure is present to run web scraping and image
 * Augmenting_Iregularimages.ipynb -> performs data-augmentation on the images of irregular galaxies
 * Combining_Dataset -> Combines the dataset (until this point images of different classes are stored in different formats in different places), resizes the images, standardizes everything.
 * PCA.ipynb -> Performs PCA (and PCA related experiments on the combined dataset)
-* svm + RF -> trains Support Vector Machine models and Random Forest models
+* SVM_and_RF-> trains Support Vector Machine models and Random Forest models
 
 Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha)
 
