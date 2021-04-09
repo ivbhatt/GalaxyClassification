@@ -15,5 +15,5 @@ In order to run them outside, the paths set in the beginning of each notebook wi
 * PCA.ipynb -> Performs PCA (and PCA related experiments on the combined dataset)
 * svm + RF -> trains Support Vector Machine models and Random Forest models
 
-Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha)
+Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollam), Meghana Kota (mkota), Shilpa Kancharla (skancha)
 
