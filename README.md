@@ -1,4 +1,4 @@
-# ALDA-G11-GalaxyClassificatoin
+# ALDA-G11-GalaxyClassification
 Repository to store code written by Group 11 (CSC 522: ALDA), Spring 21 offered by Dr. Thomas Price  
 
 This repository contains a bunch of jupyter-notebooks each does a specific task in the pipeline. Those are described below.
