@@ -4,7 +4,8 @@ Repository to store code written by Group 11 (CSC 522: ALDA), Spring 21 offered 
 This repository contains a bunch of jupyter-notebooks each does a specific task in the pipeline. Those are described below.
 These notebooks were written on GoogleColab and we used GoogleDrive as the persistent storage.
 These notebooks are not intended to be run outside of the GoogleColab-GoogleDrive environment. 
-In order to run them outside, the paths set in the beginning of each notebook will have to be edited.
+In order to run them outside, the paths set in the beginning of each notebook will have to be edited. 
+Please ensure the proper file structure is present to run web scraping and image augmentation code.
 
 ## Files
 
