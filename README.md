@@ -9,7 +9,7 @@ Please ensure the proper file structure is present to run web scraping and image
 
 ## Files
 
-* sdss_image_capture.ipynb -> uses the API provided by the Sloan Sky Observatory to get images of elliptical and spiral galaxies
+* sdss_image_capture -> uses the API provided by the Sloan Sky Observatory to get images of elliptical and spiral galaxies
 * webscrape_image_capture -> uses the proxycrawl python package to scrape images of irregular images from Google, also invalid images are scraped using this code (but different search strings)
 * Augmenting_Iregularimages.ipynb -> performs data-augmentation on the images of irregular galaxies
 * Combining_Dataset -> Combines the dataset (until this point images of different classes are stored in different formats in different places), resizes the images, standardizes everything.
@@ -18,5 +18,6 @@ Please ensure the proper file structure is present to run web scraping and image
 * MLP -> trains the MLP model
 * CNN -> trains the CNN model
 * Demonstrate_NB -> used to fetch all trained models and generate predictions on same data :)
+<br>
 Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha).
 
