@@ -13,7 +13,7 @@ Please ensure the proper file structure is present to run web scraping and image
 * webscrape_image_capture -> uses the proxycrawl python package to scrape images of irregular images from Google, also invalid images are scraped using this code (but different search strings)
 * Augmenting_Iregularimages.ipynb -> performs data-augmentation on the images of irregular galaxies
 * Combining_Dataset -> Combines the dataset (until this point images of different classes are stored in different formats in different places), resizes the images, standardizes everything.
-* PCA.ipynb -> Performs PCA (and PCA related experiments on the combined dataset)
+* PCA -> Performs PCA (and PCA related experiments on the combined dataset)
 * SVM_and_RF-> trains Support Vector Machine models and Random Forest models
 
 Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha).
