@@ -16,5 +16,5 @@ Please ensure the proper file structure is present to run web scraping and image
 * PCA.ipynb -> Performs PCA (and PCA related experiments on the combined dataset)
 * SVM_and_RF-> trains Support Vector Machine models and Random Forest models
 
-Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha)
+Collaborators: Ishan Bhatt (ivbhatt), Pragna Bollam (pbollab), Meghana Kota (mkota), Shilpa Kancharla (skancha).
 
